@@ -2,8 +2,8 @@
 \alias{cases}
 \title{Distinguish between Cases Specified by Logical Conditions}
 \description{
-  \code{cases} allows to simultaneously several cases determined
-  by logical conditions. It can be used to code these case into
+  \code{cases} allows simultaneous assessment of several cases determined
+  by logical conditions. It can be used to code these cases into
   a factor or as a multi-condition generalization of \code{\link{ifelse}}
   }
 \usage{
